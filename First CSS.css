@@ -1,0 +1,7 @@
+﻿body { background-color:slategrey }
+td   { background-color:rebeccapurple}
+#TDS { background-color:dodgerblue}
+table {
+    margin-left: auto;
+    margin-right: auto
+}
